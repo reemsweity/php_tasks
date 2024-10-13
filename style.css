@@ -1,0 +1,46 @@
+.container{
+    display: grid;
+    justify-content: center;
+    padding-top: 100px;
+}
+.btn{
+text-decoration: none;
+border: solid 1px;
+border-radius: 40px;
+width: 400px;
+height: 50px;
+text-align: center;
+}
+
+.btn1{
+    background-color: rgb(64, 64, 165);
+    color: #fff;
+    margin-top: 20px;
+}
+.btn2{
+    background-color: rgb(247, 16, 16);
+    color: #000;
+    margin-top: 20px;
+}
+input{
+    height: 40px;
+    width: 400px;
+    
+}
+.link_log{
+text-decoration: none;
+background-color: rgb(64, 64, 165);
+color: #fff;
+border: 40px;
+border-radius: 40px;
+padding: 10px;
+}
+.link_sign{
+    text-decoration: none;
+    background-color: #f43a3a;
+    color: #fff;
+    border: 40px;
+    border-radius: 40px;
+    padding: 10px;
+
+}
